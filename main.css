@@ -1,0 +1,117 @@
+body{
+    background-color: orange;
+}
+img{
+    box-shadow: 0 0 15px 5px rgb(255, 255, 255);
+    border-radius: 15px;
+}
+img:hover{
+    box-sizing: 1.5em;
+}
+.our-team{
+    display: inline-block;
+    margin-top: 100px;
+    min-height: 700px;
+}
+.team-text{
+    float: left;
+    color: white;
+    padding-top: 50px;
+    padding-left: 30px;
+    width: 400px;
+}
+h2{
+    font-size: 50px;
+}
+.main-logo{
+    width: 300px;
+    background-color: white;
+}
+a{
+    text-decoration: none;
+    color: orange;
+    font-weight: bold;
+}
+
+img.hover:hover{
+    border-radius: 50%;
+    box-shadow: 0 0 15px 5px rgb(0, 168, 132);
+}
+
+.buttonbkm{
+   text-align: center;
+   padding: 10px;
+   width: 120px;
+   height: 18px;
+   background-color: white;
+   border: 2px black solid;
+   border-radius: 35px;
+   box-shadow: 0 0 15px 5px rgb(255, 255, 255);
+}
+.buttonbkm:hover{
+    font-size: large;
+     box-shadow: 0 0 15px 5px rgb(0, 168, 132);
+
+}
+.members{
+    display: inline-block;
+    padding-left: 50px;
+}
+.baktygul{
+    float: left;
+    margin-top: 150px;
+    width: 180px;
+    height: 270px;
+
+
+}
+
+.kanyshai{
+    margin-top: 70px;
+    margin-left: 22px;
+    width: 200px;
+    height: 200px;
+
+
+}
+.shairgul{
+    float: right;
+    margin-top: -250px;
+    margin-left: 202px;
+    width: 260px;
+    height: 173px;
+
+}
+.kubanychbek{
+    float: right;
+    margin-top: -55px;
+    margin-left: -700px;
+    margin-right: 158px;
+    width: 100px;
+    height: 150px;
+
+}
+.bottom-members{
+    display: inline-block;
+}
+.saltanat{
+    margin-top: 20px;
+    margin-left: 22px;
+    width: 100px;
+    height: 150px;
+
+}
+.bekmyrza{
+    margin-bottom: -145px;
+    margin-left: 22px;
+    width: 200px;
+    height: 200px;
+   
+}
+.feruza{
+    float: right;
+    margin-top: -55px;
+    margin-right: -200px;
+    width: 180px;
+    height: 270px;
+}
